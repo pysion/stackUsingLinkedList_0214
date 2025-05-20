@@ -14,3 +14,8 @@ class Node
 };
 
 class stack
+{
+    private:
+        Node *top;
+
+    
