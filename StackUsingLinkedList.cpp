@@ -46,4 +46,5 @@ class stack
             top = top->next;
         }
 
-        
+        void peek()
+       
