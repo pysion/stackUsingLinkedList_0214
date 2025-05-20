@@ -13,3 +13,4 @@ class Node
         }
 };
 
+class stack
