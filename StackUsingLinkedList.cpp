@@ -7,5 +7,9 @@ class Node
         int data;
         Node *next;
 
-       
-}
+        Node()
+        {
+                next = NULL;
+        }
+};
+
