@@ -35,4 +35,5 @@ class stack
 
         }
 
+        void pop()
         
