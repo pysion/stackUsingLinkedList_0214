@@ -67,3 +67,6 @@ class stack
     }
 };
 
+int main() {
+    
+}
